@@ -5,7 +5,7 @@
 - **Transferable**, **Versionable**, **Immutable**, and **Resilient**.
 - Enable **trusted delegations** and Zero Trust security.
 
-    The purpose of this repository is to collect articles and copies published on external websites about ZTAuth*, serving as a centralized reference for its functionalities and applications.
+> The purpose of this repository is to collect articles and copies published on external websites about ZTAuth*, serving as a centralized reference for its functionalities and applications.
 
 ## License
 
