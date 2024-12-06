@@ -11,7 +11,6 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 
 
 You are free to use, modify, and distribute this project, provided you give appropriate credit and share any derivative works under the same license.
 
-
     The work is attributed to Nitro Agility Srl as the sole author and responsible entity, except for referenced content, patterns, or other widely recognized knowledge attributed to their respective authors or sources. 
     All content, concepts, and implementation were conceived, designed, and executed by Nitro Agility Srl.
     Any disputes or claims regarding this project should be addressed exclusively to Nitro Agility Srl.
