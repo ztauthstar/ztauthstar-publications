@@ -17,10 +17,10 @@ Under no circumstances shall listed authors or any other contributors, past, pre
 
 ---
 
-The trademark "ZTAuth*" and its associated logo(s), as contained in this repository, are the exclusive intellectual property of Nitro Agility Srl.
+The trademark `ZTAuth*` and its associated logo(s), as contained in this repository, are the exclusive intellectual property of Nitro Agility Srl.
 
-All rights reserved. Unauthorized use, reproduction, or distribution of the "ZTAuth*" trademark and its associated logo(s) is strictly prohibited.
+All rights reserved. Unauthorized use, reproduction, or distribution of the `ZTAuth*` trademark and its associated logo(s) is strictly prohibited.
 
-For inquiries regarding the use of the "ZTAuth*" trademark and its associated logo(s), please contact Nitro Agility S.r.l. at <opensource@nitroagility.com>.
+For inquiries regarding the use of the `ZTAuth*` trademark and its associated logo(s), please contact Nitro Agility S.r.l. at <opensource@nitroagility.com>.
 
 Copyright © 2024 Nitro Agility S.r.l. All Rights Reserved.
