@@ -2,7 +2,7 @@
 
 **ZTAuth*** redefines authentication (AuthN) and authorization (AuthZ) with models that are:
 
-- **Transferable**, **Versionable**, **Immutable**, and **Resilient**.
+- **Transferable**, **Versionable**, **Immutable**, **Model-Compliant** and **Resilient**.
 - Enable **trusted models** and Zero Trust security.
 
 > The purpose of this repository is to collect articles and copies published on external websites about ZTAuth*, serving as a centralized reference for its functionalities and applications.
